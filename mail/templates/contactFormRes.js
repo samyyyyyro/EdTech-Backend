@@ -74,8 +74,8 @@ exports.contactUsEmail = (
   
   <body>
       <div class="container">
-          <a href="https://edtechfrontend.onrender.com"><img class="logo"
-                  src="https://drive.google.com/file/d/1V_7Upt4poanDI8Tb5yZSY9KDmvEIq7R8/view" alt="CourseForge Logo"></a>
+          <a href="https://edtechfrontend.onrender.com"><img src="https://i.ibb.co/nCYnXft/logo4.jpg" alt="CourseForge Logo" border="0"></a>
+
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
               <p>Dear ${firstname} ${lastname},</p>
